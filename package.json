@@ -1,7 +1,7 @@
 {
-  "name": "SULA-MD",
+  "name": "BILAL-MD",
   "version": "1.0.0",
-  "description": "SULA-MD WhatsApp Bot with Multi-Number Support",
+  "description": "BILAL-MD WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

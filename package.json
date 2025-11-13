@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^5.0.5",
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
     "express": "^4.18.2",
     "fs-extra": "^11.2.0",
     "pino": "^8.17.0",
@@ -22,7 +22,7 @@
     "moment-timezone": "^0.6.0"
   },
   "engines": {
-    "node": ">=18.x"
+    "node": "18.x"
   },
   "keywords": [
     "whatsapp",
